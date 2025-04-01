@@ -1,5 +1,5 @@
 # UniversityCoursework
-This repository contains my coursework and labs while studying for my 3 year Computer Science course at the University of Southampton.
+This repository contains my coursework and labs while studying for my 3 year Software Engineering course at the University of Southampton.
 
 # Courses Breakdown
 
@@ -49,7 +49,7 @@ All code was written in **Java version 17.0.2**. All documents are in PDF format
 
 ### COMP2211
 
-Software Engineering Group Project in my second semester. Contains an Ad Auction Dashboard completely developed in Java by me and 3 other teammates. I was responsible for most of the backend and coordinated the Agile work. Coursework can be run without compilation on any PC supporting Java 17. See the project folder for details.
+Software Engineering Group Project in my second semester. Contains an Ad Auction Dashboard completely developed in java by me and 3 other teammates. I was responsible for most of the backend and coordinated the Agile work. Coursework can be run without compilation on any PC supporting Java 17. See the project folder for details.
 
 All code was written in **Java version 17.0.2**. All documents are in PDF format.
 
